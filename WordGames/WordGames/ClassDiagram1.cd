@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WordGames.frmAdminLogin" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABAAECEEAAAAAACCAAECACAACAgAAAAAAABAAAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmConundrum" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECABAAAASAGAAAASAKAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Conundrum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmGameChoice" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQAAAAAAACIAABAAAAGAEEACAAEAAAgAACAEAAAAAAA=</HashCode>
+      <FileName>GameChoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmGuesstheWord" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACABAAAACAGQAAACAKAAAAAAEAAAAAABAAA=</HashCode>
+      <FileName>GuesstheWord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmPlayConundrum" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQBAABAACAAAAAAQAGIAAQyACEAIAAoBSAAAAAAAAA=</HashCode>
+      <FileName>PlayConundrum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmPlayerName" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAECAAAAAAAACAAAACACEAIAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>PlayerName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmPlayGuesstheWord" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hQAgAABAgCAAAAABAAGIAAAyACEAAAAIBSAAAAAgAAA=</HashCode>
+      <FileName>PlayGuesstheWord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmUpdateWords" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAFCAAABAQAACIBAECACAAgAAIBCAAAAAEAAI=</HashCode>
+      <FileName>UpdateWords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.frmWelcome" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAECAAAAAAAACAAAACACEAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordGames.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
