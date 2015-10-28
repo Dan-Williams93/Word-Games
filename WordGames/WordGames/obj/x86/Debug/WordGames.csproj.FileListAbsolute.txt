@@ -102,3 +102,4 @@ C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Develop
 C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWIlliams-266698-CMP1001M-A2-Program\WordGames\WordGames\obj\x86\Debug\WordGames.frmUpdateWords.resources
 C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWIlliams-266698-CMP1001M-A2-Program\WordGames\WordGames\obj\x86\Debug\WordGames.frmWelcome.resources
 C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWIlliams-266698-CMP1001M-A2-Program\WordGames\WordGames\obj\x86\Debug\WordGames.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Education\HND Computer Science\Year 1\Software Development\PDF Files\DanielWIlliams-266698-CMP1001M-A2-Program\WordGames\WordGames\obj\x86\Debug\WordGames.csprojResolveAssemblyReference.cache

@@ -13,7 +13,8 @@ namespace WordGames
 
         public void getTextFile()
         {
-            file = @"../../Words.txt";
+            //file = @"../../Words.txt";
+            file = @"Words.txt";
             text = File.ReadAllText(file);
         }
     }
